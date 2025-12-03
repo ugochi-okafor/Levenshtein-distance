@@ -38,4 +38,4 @@ print(levenshtein_distance("intention", "execution"))
 print(levenshtein_distance("tri", "trEd", vowel_weight=0.5))  # returns 1.5
 ```
 
-This project was developed as part of a programming and language technology course and graded with distinction.
+This project was developed as part of the Introduction to programming course at Stockholm University, and graded with distinction.
